@@ -26,10 +26,8 @@ To write and execute an Assembly language program to perform the factorial of a 
 ---
 
 ## FLOWCHART
-<img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/f3b47187-6f0f-490c-8704-f2973cb2b276" />
+<img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/5148f446-4b1c-4136-a0fd-66b9f015a311" />
 
-
----
 
 ## PROGRAM
 ```asm
@@ -53,11 +51,13 @@ END
 
 ```
 OUTPUT
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/edc8a18e-2a45-4480-8d9f-78930cf6bd74" />
 
 (Keil output screenshot can be inserted here)
 
 ---
-MANUAL CALCULATIONS
+## MANUAL CALCULATIONS
+<img width="751" height="709" alt="image" src="https://github.com/user-attachments/assets/218b94d5-07c2-4ea6-84f1-fe9de6c079a3" />
 
 ---
 
