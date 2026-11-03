@@ -8,7 +8,7 @@ To write and execute an Assembly language program to perform the factorial of a 
 
 ## APPARATUS REQUIRED
 - Personal computer with Keil software
-
+.
 ---
 
 ## ALGORITHM
